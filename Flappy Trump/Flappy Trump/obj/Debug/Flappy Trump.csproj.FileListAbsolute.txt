@@ -1,0 +1,10 @@
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\bin\Debug\Flappy Trump.exe.config
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\bin\Debug\Flappy Trump.exe
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\bin\Debug\Flappy Trump.pdb
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\obj\Debug\Flappy Trump.csprojAssemblyReference.cache
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\obj\Debug\Flappy_Trump.Form1.resources
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\obj\Debug\Flappy_Trump.Properties.Resources.resources
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\obj\Debug\Flappy Trump.csproj.GenerateResource.cache
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\obj\Debug\Flappy Trump.csproj.CoreCompileInputs.cache
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\obj\Debug\Flappy Trump.exe
+D:\Rescarch\VS编程\C#\Flappy Trump\Flappy Trump\obj\Debug\Flappy Trump.pdb
